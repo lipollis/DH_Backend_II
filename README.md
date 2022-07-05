@@ -46,5 +46,6 @@
 - [Aula 17 - Comunicação Assíncrona](https://github.com/lipollis/DH_Backend_II/tree/main/Aula%2017%20-%20Comunica%C3%A7%C3%A3o%20Ass%C3%ADncrona)
 - [Aula 18 - Integradora](https://github.com/lipollis/DH_Backend_II/tree/main/Aula%2018%20-%20Integradora)
 - [Aula 19 - Log Aggregation]()
-- []()
-- []()
+- [Aula 20 - Docker e Microsserviços I]()
+- [Aula 21 - Integradora]()
+- [Aula 22 - Docker e Microsserviços - Parte II](https://github.com/lipollis/DH_Backend_II/tree/main/Aula%2022%20-%20Docker%20e%20Microsservi%C3%A7os%20-%20Parte%20II)

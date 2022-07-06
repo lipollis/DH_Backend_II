@@ -1,6 +1,6 @@
-package com.example.catalogservice.queue;
+package com.example.movieservice.queue;
 
-import com.example.catalogservice.domain.model.Movie;
+import com.example.movieservice.domain.model.Movie;
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;

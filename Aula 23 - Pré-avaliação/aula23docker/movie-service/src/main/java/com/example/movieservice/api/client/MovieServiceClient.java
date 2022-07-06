@@ -1,4 +1,4 @@
-package com.example.catalogservice.api.client;
+package com.example.movieservice.api.client;
 
 import com.example.catalogservice.domain.model.Movie;
 import org.springframework.cloud.openfeign.FeignClient;

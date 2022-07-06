@@ -1,4 +1,4 @@
-package com.example.catalogservice.api.controller;
+package com.example.movieservice.api.controller;
 
 import com.example.catalogservice.api.client.MovieServiceClient;
 import com.example.catalogservice.domain.model.Movie;

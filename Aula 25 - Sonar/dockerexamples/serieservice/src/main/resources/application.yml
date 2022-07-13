@@ -1,0 +1,37 @@
+server:
+  port: 8003
+  servlet:
+    context: /serie/
+spring:
+  application:
+    name: serie-service
+#  config:
+#    import: optional:configserver:http://config-server:8888/
+#  zipkin:
+#    base-url: http://zipkin-service:9411/
+#  cloud:
+#    config:
+#      profile: dev
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/serieService
+    username: serieService
+    password: 167396052
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+#eureka:
+#  instance:
+#    hostname: localhost
+#  client:
+#    registerWithEureka: true
+#    fetchRegistry: true
+#    serviceUrl:
+#      defaultZone: http://eureka-service:8761/eureka/
+
+sonar:
+  projectKey: serie-service
+  host:
+    url: http://localhost:9000
+  login: sqp_6dd89cce78d75a1b1ce474273365ae9f43b05705

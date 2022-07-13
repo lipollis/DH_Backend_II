@@ -1,9 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.catalogservice.CatalogServiceApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 15.225 s <<< FAILURE! - in com.example.catalogservice.CatalogServiceApplicationTests
-contextLoads  Time elapsed: 0.002 s  <<< ERROR!
-java.lang.IllegalStateException: Failed to load ApplicationContext
-Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'rabbitMQSenderConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'queue.movie.name' in value "${queue.movie.name}"
-Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'queue.movie.name' in value "${queue.movie.name}"
-

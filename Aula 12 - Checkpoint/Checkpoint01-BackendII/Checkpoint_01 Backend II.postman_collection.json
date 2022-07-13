@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "e275b6c5-7814-47b8-a726-8f3be94ef597",
+		"name": "Checkpoint_01 Backend II",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18321187"
+	},
+	"item": [
+		{
+			"name": "Movie",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n    {\r\n    \"name\": \"Inteligência Artificial\",\r\n    \"genre\": \"Ficcao\",\r\n    \"urlStrem\": \"www.movie.com.br/inteligenciaartificial\"\r\n    },\r\n    {\r\n    \"name\": \"O Capitão América\",\r\n    \"genre\": \"Acao\",\r\n    \"urlStrem\": \"www.movie.com.br/capitao\"\r\n    }\r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8085/movie",
+					"host": [
+						"localhost"
+					],
+					"port": "8085",
+					"path": [
+						"movie"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Catalog",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8086/catalog",
+					"host": [
+						"localhost"
+					],
+					"port": "8086",
+					"path": [
+						"catalog"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

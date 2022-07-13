@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: dh-gateway
+  config:
+    import: optional:configserver:http://localhost:8888
+  cloud:
+    config:
+      profile: dev
+  gateway:
+    default-filters:
+      - name: LogFilter

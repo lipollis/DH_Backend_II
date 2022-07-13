@@ -1,0 +1,8 @@
+com\example\catalogservice\config\RabbitMQSenderConfig.class
+com\example\catalogservice\api\controller\CatalogController.class
+com\example\catalogservice\api\controller\TestController.class
+com\example\catalogservice\config\RabbitTemplateConfig.class
+com\example\catalogservice\domain\model\Movie.class
+com\example\catalogservice\queue\MovieSender.class
+com\example\catalogservice\CatalogServiceApplication.class
+com\example\catalogservice\api\client\MovieServiceClient.class

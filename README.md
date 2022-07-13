@@ -52,5 +52,5 @@
 - [Aula 21 - Integradora](https://github.com/lipollis/DH_Backend_II/tree/main/Aula%2021%20-%20Integradora)
 - [Aula 22 - Docker e Microsserviços - Parte II](https://github.com/lipollis/DH_Backend_II/tree/main/Aula%2022%20-%20Docker%20e%20Microsservi%C3%A7os%20-%20Parte%20II)
 - [Aula 23 - Pré-avaliação](https://github.com/lipollis/DH_Backend_II/tree/main/Aula%2023%20-%20Pr%C3%A9-avalia%C3%A7%C3%A3o)
-- [Aula 24 - Avaliação Final]()
-- [Aula 25 - Sonar]()
+- [Aula 24 - Avaliação Final](https://github.com/lipollis/DH_Backend_II/tree/main/Aula%2024%20-%20Avalia%C3%A7%C3%A3o%20Final)
+- [Aula 25 - Sonar](https://github.com/lipollis/DH_Backend_II/tree/main/Aula%2025%20-%20Sonar/dockerexamples)

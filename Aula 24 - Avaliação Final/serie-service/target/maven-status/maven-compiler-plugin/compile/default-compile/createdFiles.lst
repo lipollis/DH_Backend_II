@@ -1,0 +1,11 @@
+com\lipollis\serieservice\api\dto\SerieDto.class
+com\lipollis\serieservice\SerieServiceApplication.class
+com\lipollis\serieservice\domain\exception\SerieNotFoundException.class
+com\lipollis\serieservice\utils\ModelMapperConfig.class
+com\lipollis\serieservice\api\controller\TestController.class
+com\lipollis\serieservice\api\controller\SerieController.class
+com\lipollis\serieservice\api\service\impl\SerieServiceImpl.class
+com\lipollis\serieservice\domain\repository\SerieRepository.class
+com\lipollis\serieservice\api\service\SerieService.class
+com\lipollis\serieservice\domain\model\Serie.class
+com\lipollis\serieservice\domain\data\DataLoader.class

@@ -1,0 +1,11 @@
+com\lipollis\movieservice\api\controller\MovieController.class
+com\lipollis\movieservice\domain\repository\MovieRepository.class
+com\lipollis\movieservice\utils\ModelMapperConfig.class
+com\lipollis\movieservice\api\service\impl\MovieServiceImpl.class
+com\lipollis\movieservice\api\controller\TestController.class
+com\lipollis\movieservice\domain\data\DataLoader.class
+com\lipollis\movieservice\domain\exception\MovieNotFoundException.class
+com\lipollis\movieservice\MovieServiceApplication.class
+com\lipollis\movieservice\api\dto\MovieDto.class
+com\lipollis\movieservice\domain\model\Movie.class
+com\lipollis\movieservice\api\service\MovieService.class

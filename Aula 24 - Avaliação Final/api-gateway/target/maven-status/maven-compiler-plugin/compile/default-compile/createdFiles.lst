@@ -1,0 +1,2 @@
+com\lipollis\apigateway\ApiGatewayApplication.class
+com\lipollis\apigateway\api\controller\FallBackController.class

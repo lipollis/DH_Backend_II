@@ -1,0 +1,12 @@
+com\lipollis\catalogservice\MovieController.class
+com\lipollis\catalogservice\api\controller\CatalogController.class
+com\lipollis\catalogservice\api\controller\TestController.class
+com\lipollis\catalogservice\service\MovieServiceImpl.class
+com\lipollis\catalogservice\api\client\MovieServiceClient.class
+com\lipollis\catalogservice\service\MovieService.class
+com\lipollis\catalogservice\config\RabbitMQSenderConfig.class
+com\lipollis\catalogservice\config\RabbitTemplateConfig.class
+com\lipollis\catalogservice\CatalogServiceApplication.class
+com\lipollis\catalogservice\queue\MovieSender.class
+com\lipollis\catalogservice\model\Movie.class
+com\lipollis\catalogservice\repository\MovieRepository.class
